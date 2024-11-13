@@ -1,16 +1,13 @@
-## Hi there 👋
+### 👋🏽 Hi there , I'm Rajath
 
-<!--
-**Rajath-B-A/Rajath-B-A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m currently making strides as a **App Development Analyst  at Accenture**, where I’ve developed interactive UIs, built REST APIs, optimized high-cost queries,  and enhanced code security using prompt engineering to deliver robust, efficient solutions
 
-Here are some ideas to get you started:
+🚀✨ With a specialized training in **Data Science & Machine Learning** through Scaler’s DSML Program, my passion for building intelligent systems drives my work in **software development and machine learning**. I thrive at the intersection of engineering and machine learning, where code meets data-driven insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Technical Expertise:
+- **Languages & Frameworks**: Python, SQL, Angular , Javascript , .NET 
+- **Machine Learning & AI**: Proficient with Scikit-Learn, TensorFlow 
+- **Data Analysis & Visualization**: Excel, Tableau, Numpy, Pandas, Seaborn, Matplotlib
+
+🛠️💡 I have developed scalable REST APIs, crafted complex SQL procedures,implemented and maintained azure pipelines . My work emphasizes building resilient systems, and I have mentored junior developers and led multiple releases from start to finish.
+
