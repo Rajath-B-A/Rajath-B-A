@@ -2,7 +2,7 @@
 
 I’m currently making strides as a **App Development Analyst  at Accenture**, where I’ve developed interactive UIs, built REST APIs, optimized high-cost queries,  and enhanced code security using prompt engineering to deliver robust, efficient solutions
 
-🚀✨ With a specialized training in **Data Science & Machine Learning** through Scaler’s DSML Program, my passion for building intelligent systems drives my work in **software development and machine learning**. I thrive at the intersection of engineering and machine learning, where code meets data-driven insights.
+🚀✨ With a specialized training in **Data Science & Machine Learning** , my passion for building intelligent systems drives my work in **software development and machine learning**. I thrive at the intersection of engineering and machine learning, where code meets data-driven insights.
 
 ### 🧠 Technical Expertise:
 - **Languages & Frameworks**: Python, SQL, Angular , Javascript , .NET 
