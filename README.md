@@ -6,7 +6,7 @@ I’m currently making strides as a **SSE  at Accenture**, where I’ve develope
 
 ### 🧠 Technical Expertise:
 - **Languages & Frameworks**: Python, SQL, Angular 
-- **Machine Learning & AI**: Proficient with Scikit-Learn, TensorFlow,K eras 
+- **Machine Learning & AI**: Proficient with Scikit-Learn, TensorFlow, Keras 
 - **Data Analysis & Visualisation**: Excel, Tableau, Numpy, Pandas, Seaborn, Matplotlib
 
 🛠️💡 I have developed scalable REST APIs, crafted complex SQL procedures, and implemented and maintained Azure pipelines. My work emphasises building resilient systems, and I have mentored junior developers and led multiple releases from start to finish.
